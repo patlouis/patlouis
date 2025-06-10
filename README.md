@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Patrick+Louis+T.+Rivera!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
