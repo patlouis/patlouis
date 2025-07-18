@@ -23,7 +23,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=patlouis&color=red)
+![](https://komarev.com/ghpvc/?username=patlouis&color=blue)
 
 <h3>My GitHub contributions summary</h3>
 
