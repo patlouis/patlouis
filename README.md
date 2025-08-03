@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Patrick+Louis+T.+Rivera!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-<h3>When I code, I rely on</h3>
+<h3>When I code, I rely on:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
